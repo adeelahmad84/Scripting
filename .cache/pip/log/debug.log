@@ -1,0 +1,15 @@
+You are using pip version 6.0.6, however version 6.0.7 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+Collecting git
+  Could not find any downloads that satisfy the requirement git
+  No distributions at all found for git
+You are using pip version 6.0.6, however version 6.0.7 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+Collecting pip from https://pypi.python.org/packages/py2.py3/p/pip/pip-6.0.7-py2.py3-none-any.whl#md5=9a7ea5d89062613887b75e01e5d82c36
+  Downloading pip-6.0.7-py2.py3-none-any.whl (1.3MB)
+Installing collected packages: pip
+  Found existing installation: pip 6.0.6
+    Uninstalling pip-6.0.6:
+      Successfully uninstalled pip-6.0.6
+
+Successfully installed pip-6.0.7

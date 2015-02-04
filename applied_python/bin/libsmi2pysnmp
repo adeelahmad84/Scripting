@@ -1,0 +1,4 @@
+#!/home/aahmad/applied_python/bin/python
+# EASY-INSTALL-SCRIPT: 'pysnmp==4.2.5','libsmi2pysnmp'
+__requires__ = 'pysnmp==4.2.5'
+__import__('pkg_resources').run_script('pysnmp==4.2.5', 'libsmi2pysnmp')

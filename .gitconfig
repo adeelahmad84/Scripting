@@ -1,0 +1,9 @@
+[user]
+	name = adeelahmad84
+	email = adeelahmad84@me.com
+
+[color]
+        status = auto
+        branch = auto
+        interactive = auto
+        diff = auto
